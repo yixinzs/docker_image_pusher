@@ -9,3 +9,4 @@ pytorch/pytorch:2.3.1-cuda11.8-cudnn8-devel
 pytorch/pytorch:1.12.1-cuda11.3-cudnn8-devel
 pytorch/pytorch:1.13.0-cuda11.6-cudnn8-devel
 pytorch/pytorch:1.11.0-cuda11.3-cudnn8-devel
+ollama/ollama:0.14.3-rc3
