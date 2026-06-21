@@ -15,3 +15,4 @@ linuxserver/dokuwiki:latest
 ywsj/mindoc:latest
 redis:latest
 redis:7.4
+python:3.11-slim
